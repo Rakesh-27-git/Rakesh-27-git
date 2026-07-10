@@ -70,20 +70,6 @@ I strongly believe software engineering is more than writing code—it's about u
 - Optimize application performance
 - Engineer production-ready architectures
 - Write maintainable, clean, scalable code
-
----
-
-## Open To
-
-- Software Engineer (SDE)
-- Full Stack Engineer
-- AI Engineer
-- Backend Engineer
-- Product Engineering Roles
-- Open Source Collaboration
-- Startup Opportunities
-- Freelance Consulting
-
 ---
 
 # Tech Stack
@@ -193,7 +179,6 @@ The platform automates meeting documentation by generating transcripts, summarie
 | **Performance** | Background processing using Inngest for non-blocking AI workflows |
 | **Security** | Better Auth, Protected APIs, Secure Session Management |
 | **Impact** | Automated meeting intelligence with AI-powered productivity |
-| **Repository** | https://github.com/YOUR_GITHUB/meet-ai |
 
 ---
 
@@ -248,7 +233,6 @@ The project demonstrates advanced AI orchestration, background processing, cloud
 | **Performance** | Parallel background rendering with asynchronous workflows |
 | **Security** | Cloud Sandbox Execution using E2B |
 | **Impact** | Automated website generation using Large Language Models |
-| **Repository** | https://github.com/YOUR_GITHUB/vibe |
 
 ---
 
@@ -301,7 +285,6 @@ Store-It is a cloud-based storage platform inspired by Google Drive, allowing us
 | **Performance** | Parallel uploads, optimized search, lazy loading |
 | **Security** | OTP Authentication, Secure Access Control |
 | **Impact** | Secure cloud document management |
-| **Repository** | https://github.com/YOUR_GITHUB/store-it |
 
 ---
 
@@ -330,19 +313,6 @@ Store-It is a cloud-based storage platform inspired by Google Drive, allowing us
 - Secure access management
 
 </details>
-
----
-
-## More Projects Coming Soon
-
-| Project | Description |
-|----------|-------------|
-| **Open Source Contributions** | Building reusable developer tools and contributing to the open-source ecosystem. |
-| **AI Experiments** | Exploring autonomous AI agents, RAG pipelines, and workflow automation. |
-| **System Design Projects** | Scalable backend systems, distributed architectures, and cloud-native applications. |
-| **Developer Tools** | Productivity-focused applications built for modern software engineers. |
-
----
 
 # Experience
 
@@ -394,25 +364,6 @@ Beldara is a B2B e-commerce platform connecting global buyers and suppliers. Dur
 
 ---
 
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| 🚀 Production Experience | Successfully delivered features for a production application serving **10K+ users** |
-| 💼 Industry Internship | Completed Full Stack Development Internship at **Beldara** |
-| 🤖 AI Engineering | Built multiple production-ready AI-powered SaaS applications |
-| ⚡ Full Stack Development | Developed scalable applications using modern JavaScript ecosystem |
-| 🎯 Product Engineering | Designed complete products from frontend to backend architecture |
-| 📚 Continuous Learning | Constantly exploring AI, distributed systems, and cloud-native development |
-
-</div>
-
----
-
----
-
 # Education
 
 ## Rajiv Gandhi Institute of Technology (RGIT)
@@ -434,44 +385,4 @@ Beldara is a B2B e-commerce platform connecting global buyers and suppliers. Dur
 - Machine Learning Fundamentals
 - Artificial Intelligence
 - Cloud Computing
-
----
-
-# Leadership & Professional Values
-
-> **Engineering Principles I Follow**
-
-- Build scalable software with clean architecture.
-- Prioritize maintainability over shortcuts.
-- Focus on performance and user experience.
-- Write readable, well-documented code.
-- Embrace continuous learning and feedback.
-- Deliver business value through engineering excellence.
-
----
-
-# Professional Highlights
-
-```text
-✓ Full Stack Product Engineer
-
-✓ AI Application Developer
-
-✓ Production SaaS Builder
-
-✓ REST API Development
-
-✓ Modern React Ecosystem
-
-✓ Next.js Specialist
-
-✓ Performance Optimization
-
-✓ Clean Architecture
-
-✓ Cloud-Native Mindset
-
-✓ Open Source Enthusiast
-```
-
 ---
