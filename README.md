@@ -45,15 +45,6 @@
 
 </p>
 
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=Rakesh-27-git&style=flat-square&color=7C3AED)
-
-![](https://img.shields.io/github/followers/Rakesh-27-git?style=flat-square)
-
-![](https://img.shields.io/github/stars/Rakesh-27-git?affiliations=OWNER&style=flat-square)
-
-</p>
 
 ---
 
