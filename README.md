@@ -21,7 +21,7 @@ B.E. Computer Science, RGIT Mumbai (2026). Previously a Full Stack Developer int
 ## Featured projects
 
 <p align="center">
-  <a href="https://github.com/Rakesh-27-git/Buddy-AI"><img src="assets/card-buddy-ai.svg" alt="Buddy AI" width="32%" /></a>
+  <a href="https://github.com/Rakesh-27-git/Buddy-AI"><img src="assets/card-buddy.svg" alt="Buddy AI" width="32%" /></a>
   <a href="https://github.com/Rakesh-27-git/vibe"><img src="assets/card-vibe.svg" alt="Vibe" width="32%" /></a>
   <a href="https://github.com/Rakesh-27-git/Store_It"><img src="assets/card-storeit.svg" alt="StoreIt" width="32%" /></a>
 </p>
