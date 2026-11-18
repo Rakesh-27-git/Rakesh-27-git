@@ -57,11 +57,11 @@ File storage with email one-time-password sign-in, uploads up to 50 MB, sharing,
 </tr>
 <tr>
 <td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="46" alt="React, Next.js, Tailwind CSS" /><br><code>shadcn/ui</code> <code>TanStack Query</code></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="46" alt="React, Next.js, Tailwind CSS" /></td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express" height="46" alt="Node.js, Express" /><br><code>tRPC</code> <code>REST</code> <code>BullMQ</code></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express" height="46" alt="Node.js, Express" /></td>
 </tr>
 <tr>
 <td><b>Data</b></td>
