@@ -17,7 +17,7 @@ B.E. Computer Science, RGIT Mumbai (2026). Looking for a junior full-stack or fr
 <h3><a href="https://github.com/Rakesh-27-git/Buddy-AI">Buddy AI</a></h3>
 Video meetings where a custom AI agent joins the call over OpenAI's realtime API. Stream webhooks drive the meeting lifecycle (upcoming, active, processing, completed), and an Inngest job turns the transcript into a summary.
 <br><br>
-`Next.js` `tRPC` `Drizzle` `Postgres` `better-auth` `Stream Video` `OpenAI Realtime` `Inngest`
+<code>Next.js</code> <code>tRPC</code> <code>Drizzle</code> <code>Postgres</code> <code>better-auth</code> <code>Stream Video</code> <code>OpenAI Realtime</code> <code>Inngest</code>
 <br><br>
 <a href="https://buddy-ai-eight.vercel.app">Live demo</a> · <a href="https://github.com/Rakesh-27-git/Buddy-AI">Source</a>
 </td>
@@ -28,7 +28,7 @@ Video meetings where a custom AI agent joins the call over OpenAI's realtime API
 <h3><a href="https://github.com/Rakesh-27-git/vibe">Vibe</a></h3>
 Describe an app in chat and an agent network writes the code, runs it in an E2B sandbox and returns a live preview. Generation runs as a durable Inngest job, and usage is credit-limited per user and plan.
 <br><br>
-`Next.js` `tRPC` `Prisma` `Postgres` `Inngest agent-kit` `E2B` `Clerk`
+<code>Next.js</code> <code>tRPC</code> <code>Prisma</code> <code>Postgres</code> <code>Inngest agent-kit</code> <code>E2B</code> <code>Clerk</code>
 <br><br>
 <a href="https://vibe-phi-weld.vercel.app">Live demo</a> · <a href="https://github.com/Rakesh-27-git/vibe">Source</a>
 </td>
@@ -39,7 +39,7 @@ Describe an app in chat and an agent network writes the code, runs it in an E2B 
 <h3><a href="https://github.com/Rakesh-27-git/Store_It">StoreIt</a></h3>
 File storage with email one-time-password sign-in, uploads up to 50 MB, sharing, search, sorting and a storage-usage chart. Next.js server actions on top of Appwrite.
 <br><br>
-`Next.js` `Appwrite` `Tailwind` `React Hook Form` `Zod` `Recharts`
+<code>Next.js</code> <code>Appwrite</code> <code>Tailwind</code> <code>React Hook Form</code> <code>Zod</code> <code>Recharts</code>
 <br><br>
 <a href="https://store-it-tan.vercel.app">Live demo</a> · <a href="https://github.com/Rakesh-27-git/Store_It">Source</a>
 </td>
@@ -57,15 +57,15 @@ File storage with email one-time-password sign-in, uploads up to 50 MB, sharing,
 </tr>
 <tr>
 <td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="46" alt="React, Next.js, Tailwind CSS" /><br>`Radix UI` `shadcn/ui` `TanStack Query`</td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="46" alt="React, Next.js, Tailwind CSS" /><br><code>Radix UI</code> <code>shadcn/ui</code> <code>TanStack Query</code></td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express" height="46" alt="Node.js, Express" /><br>`tRPC` `REST` `BullMQ`</td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express" height="46" alt="Node.js, Express" /><br><code>tRPC</code> <code>REST</code> <code>BullMQ</code></td>
 </tr>
 <tr>
 <td><b>Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" height="46" alt="PostgreSQL, MongoDB, Redis, Prisma" /><br>`Drizzle` `Appwrite`</td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" height="46" alt="PostgreSQL, MongoDB, Redis, Prisma" /><br><code>Drizzle</code> <code>Appwrite</code></td>
 </tr>
 <tr>
 <td><b>Tooling</b></td>
