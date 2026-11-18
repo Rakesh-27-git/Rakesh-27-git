@@ -57,7 +57,7 @@ File storage with email one-time-password sign-in, uploads up to 50 MB, sharing,
 </tr>
 <tr>
 <td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="46" alt="React, Next.js, Tailwind CSS" /><br><code>Radix UI</code> <code>shadcn/ui</code> <code>TanStack Query</code></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="46" alt="React, Next.js, Tailwind CSS" /><br><code>shadcn/ui</code> <code>TanStack Query</code></td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
@@ -65,7 +65,7 @@ File storage with email one-time-password sign-in, uploads up to 50 MB, sharing,
 </tr>
 <tr>
 <td><b>Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" height="46" alt="PostgreSQL, MongoDB, Redis, Prisma" /><br><code>Drizzle</code> <code>Appwrite</code></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" height="46" alt="PostgreSQL, MongoDB, Redis, Prisma" /></td>
 </tr>
 <tr>
 <td><b>Tooling</b></td>
