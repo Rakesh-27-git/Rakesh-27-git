@@ -50,22 +50,47 @@ File storage with email one-time-password sign-in, uploads up to 50 MB, sharing,
 
 ## Stack
 
-| | |
-| --- | --- |
-| **Languages** | JavaScript, TypeScript, HTML, CSS |
-| **Frontend** | React, Next.js, Tailwind CSS, Radix UI / shadcn |
-| **Backend** | Node.js, Express, tRPC, REST APIs |
-| **Data** | PostgreSQL, MongoDB, Prisma, Drizzle |
-| **Tooling** | Git, Docker, Vercel, Inngest, Postman |
+<table>
+<tr>
+<td width="150"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,py,html,css" height="46" alt="JavaScript, TypeScript, Python, HTML, CSS" /></td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="46" alt="React, Next.js, Tailwind CSS" /> &nbsp;<sub>Radix UI · shadcn/ui · TanStack Query · React Hook Form + Zod</sub></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express" height="46" alt="Node.js, Express" /> &nbsp;<sub>tRPC · REST APIs · BullMQ · rate limiting</sub></td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,drizzle" height="46" alt="PostgreSQL, MongoDB, Redis, Prisma, Drizzle" /></td>
+</tr>
+<tr>
+<td><b>AI and realtime</b></td>
+<td><sub>LiveKit (WebRTC / SIP) · OpenAI APIs and Realtime · Inngest agent-kit · E2B sandboxes · Stream Video · streaming TTS</sub></td>
+</tr>
+<tr>
+<td><b>Tooling</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,docker,vercel,postman" height="46" alt="Git, Docker, Vercel, Postman" /></td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
+**Software Engineer, Arham Fintech** · Aug 2026 – Nov 2026 · Mumbai
+- Built the real-time voice pipeline for Flow Orbit with Python, LiveKit (WebRTC/SIP) and Sarvam AI, so AI voice agents can handle customer support calls in 11+ Indic languages.
+- Cut voice reply latency from 1.8s to about 1.0s by streaming speech synthesis, pre-warming connections and handling user interruptions (barge-in).
+- Built full-stack modules for an enterprise HRMS platform (role-based auth, employee management, travel and expense tracking) with React, Node.js and PostgreSQL, used by 700+ employees across 6 companies.
+- Secured HRMS auth routes with Redis rate limiting and queued background emails with BullMQ.
+
 **Full Stack Developer Intern, Beldara** · Feb 2025 – Aug 2025 · Mumbai
-- Built React frontend features and Node/Express REST APIs for a quick-commerce app (10K+ Play Store downloads) at Beldara, a B2B e-commerce platform.
-- Improved responsiveness with lazy loading, debouncing and fewer unnecessary re-renders.
-- Worked in a Git-based team with code review, debugging and deployment.
+- Shipped full-stack features with React, Node.js and Express for a 10-minute grocery delivery app on the Play Store (10K+ downloads).
+- Built paginated product listings and added 300ms search debouncing to avoid redundant API calls.
+- Designed and maintained REST APIs for catalog, cart and checkout, coordinating with mobile developers to keep endpoints consistent across web and app.
 
 ## Education
 
