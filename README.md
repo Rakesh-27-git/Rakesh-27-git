@@ -17,7 +17,7 @@ B.E. Computer Science, RGIT Mumbai (2026). Looking for a junior full-stack or fr
 <h3><a href="https://github.com/Rakesh-27-git/Buddy-AI">Buddy AI</a></h3>
 Video meetings where a custom AI agent joins the call over OpenAI's realtime API. Stream webhooks drive the meeting lifecycle (upcoming, active, processing, completed), and an Inngest job turns the transcript into a summary.
 <br><br>
-<sub>Next.js · tRPC · Drizzle + Postgres · better-auth · Stream Video · OpenAI Realtime · Inngest</sub>
+`Next.js` `tRPC` `Drizzle` `Postgres` `better-auth` `Stream Video` `OpenAI Realtime` `Inngest`
 <br><br>
 <a href="https://buddy-ai-eight.vercel.app">Live demo</a> · <a href="https://github.com/Rakesh-27-git/Buddy-AI">Source</a>
 </td>
@@ -28,7 +28,7 @@ Video meetings where a custom AI agent joins the call over OpenAI's realtime API
 <h3><a href="https://github.com/Rakesh-27-git/vibe">Vibe</a></h3>
 Describe an app in chat and an agent network writes the code, runs it in an E2B sandbox and returns a live preview. Generation runs as a durable Inngest job, and usage is credit-limited per user and plan.
 <br><br>
-<sub>Next.js · tRPC · Prisma + Postgres · Inngest agent-kit · E2B · Clerk</sub>
+`Next.js` `tRPC` `Prisma` `Postgres` `Inngest agent-kit` `E2B` `Clerk`
 <br><br>
 <a href="https://vibe-phi-weld.vercel.app">Live demo</a> · <a href="https://github.com/Rakesh-27-git/vibe">Source</a>
 </td>
@@ -39,7 +39,7 @@ Describe an app in chat and an agent network writes the code, runs it in an E2B 
 <h3><a href="https://github.com/Rakesh-27-git/Store_It">StoreIt</a></h3>
 File storage with email one-time-password sign-in, uploads up to 50 MB, sharing, search, sorting and a storage-usage chart. Next.js server actions on top of Appwrite.
 <br><br>
-<sub>Next.js · Appwrite · Tailwind · React Hook Form + Zod · Recharts</sub>
+`Next.js` `Appwrite` `Tailwind` `React Hook Form` `Zod` `Recharts`
 <br><br>
 <a href="https://store-it-tan.vercel.app">Live demo</a> · <a href="https://github.com/Rakesh-27-git/Store_It">Source</a>
 </td>
@@ -57,19 +57,15 @@ File storage with email one-time-password sign-in, uploads up to 50 MB, sharing,
 </tr>
 <tr>
 <td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="46" alt="React, Next.js, Tailwind CSS" /> &nbsp;<sub>Radix UI · shadcn/ui · TanStack Query · React Hook Form + Zod</sub></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="46" alt="React, Next.js, Tailwind CSS" /><br>`Radix UI` `shadcn/ui` `TanStack Query`</td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express" height="46" alt="Node.js, Express" /> &nbsp;<sub>tRPC · REST APIs · BullMQ · rate limiting</sub></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express" height="46" alt="Node.js, Express" /><br>`tRPC` `REST` `BullMQ`</td>
 </tr>
 <tr>
 <td><b>Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" height="46" alt="PostgreSQL, MongoDB, Redis, Prisma" /> &nbsp;<sub>Drizzle ORM · Appwrite</sub></td>
-</tr>
-<tr>
-<td><b>AI and realtime</b></td>
-<td><sub>LiveKit (WebRTC / SIP) · OpenAI APIs and Realtime · Inngest agent-kit · E2B sandboxes · Stream Video · streaming TTS</sub></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" height="46" alt="PostgreSQL, MongoDB, Redis, Prisma" /><br>`Drizzle` `Appwrite`</td>
 </tr>
 <tr>
 <td><b>Tooling</b></td>
