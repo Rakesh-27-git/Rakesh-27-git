@@ -65,7 +65,7 @@ File storage with email one-time-password sign-in, uploads up to 50 MB, sharing,
 </tr>
 <tr>
 <td><b>Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,drizzle" height="46" alt="PostgreSQL, MongoDB, Redis, Prisma, Drizzle" /></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" height="46" alt="PostgreSQL, MongoDB, Redis, Prisma" /> &nbsp;<sub>Drizzle ORM · Appwrite</sub></td>
 </tr>
 <tr>
 <td><b>AI and realtime</b></td>
